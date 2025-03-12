@@ -1,1 +1,6 @@
-
+{
+  "version": "v1",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/Doze-off/Hide-folders-files/releases/download/V1/Hide.Folders.Files.V1.zip",
+  "changelog": "https://raw.githubusercontent.com/Doze-off/Hide-folders-files/Hide-folders-files/changelog.md"
+}
