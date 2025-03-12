@@ -1,0 +1,10 @@
+ro.crypto.state=encrypted
+persist.mm.enable.prefetch=false
+ro.logd.size=64K
+persist.logd.size.radio=1M
+persist.logd.limit=OFF
+persist.logd.size.system=1M
+ro.logd.size.stats=64K
+persist.logd.size=65536
+persist.logd.size.crash=1M
+log.tag.stats_log=OFF
