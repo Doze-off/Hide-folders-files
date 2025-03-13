@@ -1,6 +1,6 @@
 {
-  "versão": "V3",
+  "version": "V3",
   "versionCode": 3,
   "zipUrl": "https://github.com/Doze-off/Hide-folders-files/releases/download/V3/Hide.Folders.Files.V3.zip",
-  "canelog": "https://raw.githubusercontent.com/Doze-off/Hide-folders-files/Hide-folders-files/changelog.md"
+  "changelog": "https://raw.githubusercontent.com/Doze-off/Hide-folders-files/Hide-folders-files/changelog.md"
 }
