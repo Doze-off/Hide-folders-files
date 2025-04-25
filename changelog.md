@@ -4,4 +4,4 @@ v2 code improvements, it detects more hidden folders
 
 v3 fix hiding init.rc
 
-v5 some things
+v4 some things
