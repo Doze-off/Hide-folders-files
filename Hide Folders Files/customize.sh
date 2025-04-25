@@ -1,9 +1,10 @@
-sleep 2
 ui_print " • Informações do módulo "
 sleep 0.2
 ui_print " • Nome            : Hide folders/files"
 sleep 0.2
 ui_print " • Desenvolvedor   : @NedTOP "
+sleep 0.2
+ui_print " • Canal           : @Papacu_GSIs_MODs "
 sleep 0.2
 ui_print ""
 ui_print " • Iniciando o processo de ocultação..."
