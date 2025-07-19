@@ -1,10 +1,10 @@
 ui_print " • Informações do módulo "
 sleep 0.2
-ui_print " • Nome            : Hide folders/files"
+ui_print " • Nome            : Hide folders/files and Securize"
 sleep 0.2
-ui_print " • Desenvolvedor   : @NedTOP "
+ui_print " • Desenvolvedor   : @Doze-off "
 sleep 0.2
-ui_print " • Canal           : @Papacu_GSIs_MODs "
+ui_print " • Canal           : @acgsi_chat "
 sleep 0.2
 ui_print ""
 ui_print " • Iniciando o processo de ocultação..."
